@@ -1,0 +1,7 @@
+*.class
+.DS_Store
+.idea/*
+build/*
+/csc413-p2.iml
+/nbproject/private/
+/lexer/nbproject/private/
